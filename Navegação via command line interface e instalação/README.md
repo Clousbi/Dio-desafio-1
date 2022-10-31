@@ -15,3 +15,18 @@ Nos sistemas Windows, cujo principal objetivo é a usabilidade do sistema, pouca
 |dir| ls | 
 |mkdir | mkdir | 
 |del/rmdir |rm rf| 
+
+
+## Windows
+cd = Direcinamento do usuario em relação a diretório/arquivos e etc.
+dir = para mostrar ou a listagem de arquivos/diretórios que aquele local possui
+mkdir = para criar um diretório
+del/rmdir = remover o diretório
+echo = printar no shell o comando desejado
+echo x > x.txt = printa o que está escrito dentro do arquivo desejado (caso não tenha esse arquivo o própria máquina irá criar).
+
+* del só funciona se o diretório/arquivo estiver vazio, caso queira deletar tudo, até mesmo o que es´ta la dentro, usa rmdir ( como se forçasse a máquina a deletar).
+
+## Links úteis
+
+* [Git](https://git-scm.com/). 
