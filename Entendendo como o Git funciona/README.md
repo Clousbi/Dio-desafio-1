@@ -36,5 +36,21 @@ O formato de um objeto commit é simples: ele especifica a árvore de nível sup
 
 ![Imagem](http://git-scm.com/figures/18333fig0903-tn.png)
 
-## Sistema distribuído
-## Segurança
+## 1. Clone do projeto
+O primeiro passo para obter o código-fonte do projeto é cloná-lo em nossas máquinas, para que seus arquivos fiquem disponíveis localmente.
+
+## 2. Criação da Branch
+Ao criar uma Branch, estamos criando uma nova ramificação, totalmente independente, para podermos alterar os arquivos do projeto sem interferir nos originais.
+
+Esse processo é considerado uma boa prática quando se está trabalhando em nova funcionalidade.
+
+## 3. Commits
+Conforme vão sendo criados e alterados os arquivos, elas vão sendo divididas em commits. É importante que a descrição de cada commit seja objetiva, pois ela vai ficar salva no histórico das alterações.
+
+## 4. Hora do Push
+Uma vez que a funcionalidade está totalmente finalizada, devemos enviar nossa Branch, com todas as alterações, de volta ao repositório remoto. Assim, ela ficará disponível para os demais contribuidores do projeto poderem ver e alterar.
+
+## 5 – Merge para juntar tudo
+Para mesclar as modificações de sua Branch com os arquivos originais do projeto da Branch principal ou máster, você pode utilizar o comando Merge. Após isso, é necessário dar um commit e um push, para enviar a ramificação máster mesclada ao repositório remoto e deixar tudo disponível para os demais contribuidores.
+
+Existe também o Pull Request, que geralmente tem relação com a contribuição em projetos open source. Basicamente, ele ocorre quando se pede para o dono do repositório que suas modificações sejam incluídas nele.
