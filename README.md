@@ -45,19 +45,19 @@
 ## 🔴 Acesso ao projeto
 
 Primeiros passos: 
-* [Introdução ao Git](x). 
-* [Navegação via command line interface e instalação](x).
-* [Entendendo como o Git funciona](x).
-* [Primeiros comandos com Git](x).
-* [Ciclo de vida dos arquivos no Git](x).
-* [Introdução ao GitHub](x).
-* [Resolvendo conflitos](x).      
+* [Introdução ao Git](https://github.com/Clousbi/Dio-desafio-1/tree/main/Introdu%C3%A7%C3%A3o%20ao%20Git). 
+* [Navegação via command line interface e instalação](https://github.com/Clousbi/Dio-desafio-1/tree/main/Navega%C3%A7%C3%A3o%20via%20command%20line%20interface%20e%20instala%C3%A7%C3%A3o).
+* [Entendendo como o Git funciona](https://github.com/Clousbi/Dio-desafio-1/tree/main/Entendendo%20como%20o%20Git%20funciona).
+* [Primeiros comandos com Git](https://github.com/Clousbi/Dio-desafio-1/tree/main/Primeiros%20comandos).
+* [Ciclo de vida dos arquivos no Git](https://github.com/Clousbi/Dio-desafio-1/tree/main/Ciclo%20de%20vida%20dos%20arquivos%20Git).
+* [Introdução ao GitHub](https://github.com/Clousbi/Dio-desafio-1/tree/main/Introdu%C3%A7%C3%A3o%20ao%20Github).
+* [Resolvendo conflitos](https://github.com/Clousbi/Dio-desafio-1/tree/main/Resolvendo%20conflitos).      
 
 ## :white_check_mark: Tecnologias Utilizadas
 * Git;
 * GitHub.
 
 ## Licença
-Desafio de Projeto - Git e GitHub é licenciado pelo [MIT](x). 
+Desafio de Projeto - Git e GitHub é licenciado pelo [MIT](https://github.com/Clousbi/Dio-desafio-1/blob/main/LICENSE). 
 >
 A documentação do LPM (por exemplo, arquivos .md na pasta ./docs) também é licenciada pelo MIT.
