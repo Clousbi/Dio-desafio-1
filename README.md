@@ -23,16 +23,13 @@
 
 ## 🔴 Descrição do Projeto
 
-> Inspirações, Apps e Estudos utilizados:
-* [x](x)
-* [y](y)
-* [z](z)
+O desafio foi criado pela DIO, com intuito de criar um repositório contendo os conteúdos estudados do curso de Git e GitHub.
 
 
 
 ## 🔴 Status do Projeto
  
-:construction:  Em análise  :construction:
+:construction:  Concluído em Outubro de 2022  :construction:
 
 
 
