@@ -26,9 +26,7 @@ Você pode pensar no git pull como a versão do Git do comando svn update. É um
 
 ![Imagem](https://wac-cdn.atlassian.com/dam/jcr:9c543e76-04df-429e-af48-43a5276d7f4f/04-06%20Git%20pull%20discussion.svg?cdnVersion=610)
 
-![Imagem](https://wac-cdn.atlassian.com/dam/jcr:9c543e76-04df-429e-af48-43a5276d7f4f/04-06%20Git%20pull%20discussion.svg?cdnVersion=610)
 
-![Imagem](https://wac-cdn.atlassian.com/dam/jcr:9c543e76-04df-429e-af48-43a5276d7f4f/04-06%20Git%20pull%20discussion.svg?cdnVersion=610)
 
 Primeiro, você pensa que o repositório está sincronizado, mas então o git fetch revela que a versão principal da origem progrediu desde a última verificação. Em seguida, o git merge integra de imediato a ramificação principal remota na local.
 
